@@ -4,12 +4,12 @@ Site educativo simples e performático, feito com HTML, CSS e JavaScript puro. T
 
 ## Participantes
 
-| Matrícula | Nome                               |
-|-----------|------------------------------------|
-| 06009810  | Maicon Galdino Cunha               |
-| 06013890  | Guilherme Henrique Quintanilha     |
-| 06015459  | Hugo dos Reis Corrêa Lima          |
-| 06014670  | Vitor Alexandre Rocha de Souza     |
+| Matrícula | Nome                           |
+| --------- | ------------------------------ |
+| 06009810  | Maicon Galdino Cunha           |
+| 06013890  | Guilherme Henrique Quintanilha |
+| 06015459  | Hugo dos Reis Corrêa Lima      |
+| 06014670  | Vitor Alexandre Rocha de Souza |
 
 ## Recursos
 
