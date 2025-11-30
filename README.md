@@ -37,12 +37,13 @@ Se preferir um servidor local:
 
 2. Acesse `http://localhost:8000/` no navegador.
 
-## Estrutura de arquivos
+## Estrutura de pastas
 
 - `index.html`: marcação semântica, cabeçalho com menu e seções de conteúdo.
 - Inclui seção `Participantes` com tabela de matrícula e nome.
-- `style.css`: tema escuro, paleta roxo/rosa, responsivo e estilos de tabelas/cards.
-- `script.js`: interações (rolagem suave, animações e destaque do menu).
+- `css/` → `style.css`: tema escuro, paleta roxo/rosa, responsivo e estilos de tabelas/cards.
+- `js/` → `script.js`: interações (rolagem suave, animações e destaque do menu).
+- `assets/icons/`: pasta reservada para ícones do projeto.
 
 ## Personalização
 
